@@ -1,0 +1,17 @@
+body{
+    margin: 20px;
+}
+
+.row{
+    text-align: center;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+.col{
+    padding: 10px;
+    border: 1px solid black;
+}
